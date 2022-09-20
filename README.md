@@ -40,9 +40,9 @@ object **Vic** {
 </a>
 
 [website]: https://victordev.net/
-[twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/user/
-[instagram]: https://www.instagram.com/
+[twitter]: 
+[youtube]: https://www.youtube.com/channel/UCE4H7P9x6jaL3M2-FP8eqJQ
+[instagram]: https://www.instagram.com/victoritalo.dev/
 [linkedin]: https://www.linkedin.com/in/victoritalo/
 <br>
 
