@@ -52,4 +52,4 @@ object **Vic** {
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+👔 [linkedin][linkedin] **|** 
