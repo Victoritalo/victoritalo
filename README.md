@@ -12,8 +12,7 @@ alert(message);
 ### Olá 👋 
 
 Sou Victor, Desenvolvedor **Web Full Stack**!
-Fascinado por tecnologia, história(Egito Antigo❤) <br>
-e atualmente estudo Programação Full Stack na **Growdev**<br>
+Fascinado por tecnologia, história(Egito Antigo❤) e atualmente estudo Programação Full Stack na **Growdev**<br>
 <br>
 
 ## **Linguagens e Ferramentas:**  
