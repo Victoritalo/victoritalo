@@ -1,14 +1,19 @@
 <br> 
 
+```
+let message = 'Bem vindo! =)';
+alert(message);
+```
+
 ## <img width="35" alt="about" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png"> Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-### Olá 👋
+### Olá 👋 
 
-Sou Victor! Fascinado por tecnologia e história. Antigo Egito ❤ <br>
-Programação Full Stack na **Growdev**<br>
-Eu sou desenvolvedor **Full Stack**
+Sou Victor, Desenvolvedor **Web Full Stack**!
+Fascinado por tecnologia, história(Egito Antigo❤) <br>
+e atualmente estudo Programação Full Stack na **Growdev**<br>
 <br>
 
 ## **Linguagens e Ferramentas:**  
