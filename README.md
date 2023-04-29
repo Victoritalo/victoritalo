@@ -1,23 +1,15 @@
-### Olá 👋
+<br> 
 
-Sou Victor! Fascinado por tecnologia e história. Antigo Egito ❤
-
-<br>
-
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## <img width="35" alt="about" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png"> Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```kotlin
-object **Vic** {
- val name = "Victor Italo"
- val acknowledgements = "Full Stack Trainee"
- 
- val primarySkillset = "HTML, CSS, JavaScript"
- val languages = listOf("TypeScript", "JavaScript", "React") 
+### Olá 👋
 
-}
-```
+Sou Victor! Fascinado por tecnologia e história. Antigo Egito ❤ <br>
+Programação Full Stack na **Growdev**<br>
+Eu sou desenvolvedor **Full Stack**
+<br>
 
 ## **Linguagens e Ferramentas:**  
 
