@@ -12,7 +12,7 @@ alert(message);
 ### Olá 👋 
 
 Sou Victor, Desenvolvedor **Web Full Stack**!
-Fascinado por tecnologia, história(Egito Antigo❤) e atualmente estudo Programação Full Stack na **Growdev**<br>
+Fascinado por tecnologia, história(Egito Antigo❤) e atualmente estudo Programação Web Full Stack na **Growdev**<br>
 <br>
 
 ## **Linguagens e Ferramentas:**  
@@ -32,7 +32,7 @@ Fascinado por tecnologia, história(Egito Antigo❤) e atualmente estudo Program
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=victoritalo&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=victoritalo&show_icons=true&theme=dracula&line_height=27" alt="**Victor** github stats"/>
 </a>
 
 [website]: https://victordev.net/
@@ -44,8 +44,8 @@ Fascinado por tecnologia, história(Egito Antigo❤) e atualmente estudo Program
 
 #### Rede Sociais!
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin] **|** 
+🏡 [Website][website] **|** 
+🐦 [Twitter][twitter] **|** 
+📺 [Youtube][youtube] **|** 
+📷 [Instagram][instagram] **|** 
+👔 [LinkedIn][linkedin] **|** 
