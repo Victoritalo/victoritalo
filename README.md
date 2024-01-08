@@ -40,10 +40,6 @@ Fascinado por tecnologia, história(Egito Antigo❤) e atualmente estudo Program
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/victoritalo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoritalo&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/victoritalo">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victoritalo&show_icons=true&theme=dracula&line_height=27" alt="**Victor** github stats"/>
 </a>
 
