@@ -45,8 +45,8 @@ Fascinado por tecnologia, história(Egito Antigo❤) e atualmente estudo Program
 
 [website]: https://victordev.net/
 [twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/channel/UCE4H7P9x6jaL3M2-FP8eqJQ
-[instagram]: https://www.instagram.com/victoritalo.dev/
+[youtube]: https://www.youtube.com/
+[instagram]: https://www.instagram.com/
 [linkedin]: https://www.linkedin.com/in/victoritalo/
 <br>
 
